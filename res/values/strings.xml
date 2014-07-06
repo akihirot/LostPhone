@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">LostPhone</string>
+    <string name="action_settings">Settings</string>
+    <string name="Hello_World">Hello world!</string>
+    <string name="inPass">パスワードを\n入力してください</string>
+    <string name="ok">確定</string>
+    <string name="edit_pass_comment">パスワードをここに入力</string>
+    <string name="set_pass_button"><u>パスワードの再設定</u></string>
+    <string name="how_to_button"><u>使い方</u></string>
+    <string name="back">戻る</string>
+    <string name="help">スマートフォンをなくした時に\n以下に示すsmsメッセージを送ることで\n色々な操作ができます\n\n　例) passというパスワードを設定した場合\n\n　・マナーモードの解除\n　pass @sound\n\n　・携帯の位置を知りたいとき\n　pass @locate</string>
+
+</resources>
